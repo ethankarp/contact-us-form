@@ -1,0 +1,26 @@
+{
+  "name": "contact-us-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ksouffle/contact-us-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ksouffle/contact-us-form/issues"
+  },
+  "homepage": "https://github.com/Ksouffle/contact-us-form#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.0",
+    "yup": "^0.32.11"
+  }
+}
