@@ -16,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/Ksouffle/contact-us-form/issues"
   },
-  "homepage": "https://github.com/Ksouffle/contact-us-form#readme",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
